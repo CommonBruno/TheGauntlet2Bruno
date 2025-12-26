@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Gauntlet2Bruno.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Gauntlet2Bruno.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Gauntlet2BrunoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Gauntlet2Bruno">
+      <UniqueIdentifier>{B9C7E92F-B1DD-3AFD-9FBA-046CF21D7182}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Gauntlet2Bruno\Gauntlet2Bruno.Build.cs">
+      <Filter>Source\Gauntlet2Bruno</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Gauntlet2Bruno.cpp">
+      <Filter>Source\Gauntlet2Bruno</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Gauntlet2Bruno.h">
+      <Filter>Source\Gauntlet2Bruno</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Gauntlet2BrunoCharacter.cpp">
+      <Filter>Source\Gauntlet2Bruno</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Gauntlet2BrunoCharacter.h">
+      <Filter>Source\Gauntlet2Bruno</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Gauntlet2BrunoGameMode.cpp">
+      <Filter>Source\Gauntlet2Bruno</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Gauntlet2BrunoGameMode.h">
+      <Filter>Source\Gauntlet2Bruno</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Gauntlet2BrunoPlayerController.cpp">
+      <Filter>Source\Gauntlet2Bruno</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Gauntlet2BrunoPlayerController.h">
+      <Filter>Source\Gauntlet2Bruno</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gauntlet2Bruno\Variant_Combat">
+      <UniqueIdentifier>{8B6E9D45-467C-308E-A404-098FC8E94125}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gauntlet2Bruno\Variant_Combat\AI">
+      <UniqueIdentifier>{E52CAEA3-5C5F-3466-AB0E-093E9A71F948}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gauntlet2Bruno\Variant_Combat\Animation">
+      <UniqueIdentifier>{02A17E14-1604-31FF-AFF9-5D1E4622B8A4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Animation\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Animation\AnimNotify_CheckCombo.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Animation\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Animation\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gauntlet2Bruno\Variant_Combat\Gameplay">
+      <UniqueIdentifier>{32E81226-C628-34D1-99B0-57D5ABAAC420}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Gameplay\CombatActivationVolume.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Gameplay\CombatActivationVolume.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Gameplay\CombatCheckpointVolume.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Gameplay\CombatCheckpointVolume.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Gameplay\CombatDamageableBox.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Gameplay\CombatDamageableBox.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Gameplay\CombatDummy.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Gameplay\CombatDummy.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Gameplay\CombatLavaFloor.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Gameplay\CombatLavaFloor.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gauntlet2Bruno\Variant_Combat\Interfaces">
+      <UniqueIdentifier>{C82D0B28-0E99-385D-8AAF-62456F59ECE9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Interfaces\CombatActivatable.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Interfaces\CombatActivatable.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Interfaces\CombatAttacker.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Interfaces\CombatAttacker.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Interfaces\CombatDamageable.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\Interfaces\CombatDamageable.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gauntlet2Bruno\Variant_Combat\UI">
+      <UniqueIdentifier>{590A0C5D-43F9-30CD-A59E-AA2E7AC954B5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\UI\CombatLifeBar.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\UI\CombatLifeBar.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Combat\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gauntlet2Bruno\Variant_Platforming">
+      <UniqueIdentifier>{950331EA-2E4B-332A-A695-3D331DDDD0CB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gauntlet2Bruno\Variant_Platforming\Animation">
+      <UniqueIdentifier>{785298E8-3E5E-3A10-A9A4-693A9B8B57BB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Platforming\Animation\AnimNotify_EndDash.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_Platforming\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_Platforming\Animation\AnimNotify_EndDash.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_Platforming\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gauntlet2Bruno\Variant_SideScrolling">
+      <UniqueIdentifier>{C7A790A6-6CA7-3B21-B3EC-503D97C452D1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gauntlet2Bruno\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{4BC8ED80-2D1F-3AB1-836C-084A03842EFA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{5439B5C2-95D9-3F8F-B4FA-42308E9CC4B3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gauntlet2Bruno\Variant_SideScrolling\Interfaces">
+      <UniqueIdentifier>{AF0E7706-0179-3496-9658-E705AC72A0B6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\Interfaces\SideScrollingInteractable.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\Interfaces\SideScrollingInteractable.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gauntlet2Bruno\Variant_SideScrolling\UI">
+      <UniqueIdentifier>{8B179B44-A7EA-39CB-8E94-FE3DEA2EFD11}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\UI\SideScrollingUI.cpp">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Variant_SideScrolling\UI\SideScrollingUI.h">
+      <Filter>Source\Gauntlet2Bruno\Variant_SideScrolling\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
