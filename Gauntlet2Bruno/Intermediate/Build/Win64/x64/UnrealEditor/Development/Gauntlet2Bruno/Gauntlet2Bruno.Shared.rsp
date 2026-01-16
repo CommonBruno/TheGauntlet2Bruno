@@ -1,4 +1,5 @@
 /I "."
+/I "C:/Users/User/Documents/Fork/TheGauntlet2Bruno/Gauntlet2Bruno/Source/Gauntlet2Bruno/Private"
 /I "../Intermediate/Build/Win64/UnrealEditor/Inc/Engine/UHT"
 /I "Runtime/Engine/Classes"
 /I "Runtime/Engine/Public"
@@ -301,6 +302,7 @@
 /I "C:/Users/User/Documents/Fork/TheGauntlet2Bruno/Gauntlet2Bruno/Source/Gauntlet2Bruno/Variant_SideScrolling/Interfaces"
 /I "C:/Users/User/Documents/Fork/TheGauntlet2Bruno/Gauntlet2Bruno/Source/Gauntlet2Bruno/Variant_SideScrolling/UI"
 /I "C:/Users/User/Documents/Fork/TheGauntlet2Bruno/Gauntlet2Bruno/Source"
+/I "C:/Users/User/Documents/Fork/TheGauntlet2Bruno/Gauntlet2Bruno/Source/Gauntlet2Bruno/Public"
 /I "../Plugins/EnhancedInput/Intermediate/Build/Win64/UnrealEditor/Inc/EnhancedInput/UHT"
 /I "../Plugins/EnhancedInput/Source"
 /I "../Plugins/EnhancedInput/Source/EnhancedInput/Public"

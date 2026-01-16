@@ -1,14 +1,3 @@
-{
-	"Targets": [
-		{
-			"Name": "Gauntlet2Bruno",
-			"Path": "..\\Source\\Gauntlet2Bruno.Target.cs",
-			"Type": "Game"
-		},
-		{
-			"Name": "Gauntlet2BrunoEditor",
-			"Path": "..\\Source\\Gauntlet2BrunoEditor.Target.cs",
-			"Type": "Editor"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5225fca12b1fd5c6c93a69fe2165a479bfdfdddca0afafc45a5567c81bf0ab9
+size 260
