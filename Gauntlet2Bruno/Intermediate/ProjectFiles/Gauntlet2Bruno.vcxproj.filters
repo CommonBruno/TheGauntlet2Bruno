@@ -66,13 +66,13 @@
     <Filter Include="Source\Gauntlet2Bruno\Private">
       <UniqueIdentifier>{26C1031A-2F5B-3349-BF4B-E91C638A79C1}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Private\UQuestSubsystem.cpp">
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Private\CPP_Turret.cpp">
       <Filter>Source\Gauntlet2Bruno\Private</Filter>
     </ClCompile>
     <Filter Include="Source\Gauntlet2Bruno\Public">
       <UniqueIdentifier>{537C821C-AAAB-39E6-8815-AA32767DBA2E}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Public\UQuestSubsystem.h">
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Public\CPP_Turret.h">
       <Filter>Source\Gauntlet2Bruno\Public</Filter>
     </ClInclude>
     <Filter Include="Source\Gauntlet2Bruno\Variant_Combat">

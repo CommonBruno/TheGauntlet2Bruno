@@ -276,10 +276,10 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\Gauntlet2Bruno\Gauntlet2BrunoPlayerController.h"/>
-    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Private\UQuestSubsystem.cpp">
+    <ClCompile Include="..\..\Source\Gauntlet2Bruno\Private\CPP_Turret.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Public\UQuestSubsystem.h"/>
+    <ClInclude Include="..\..\Source\Gauntlet2Bruno\Public\CPP_Turret.h"/>
     <ClCompile Include="..\..\Source\Gauntlet2Bruno\Variant_Combat\CombatCharacter.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
