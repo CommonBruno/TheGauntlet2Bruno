@@ -21,13 +21,13 @@ void EmptyLinkFunctionForGeneratedCodeGauntlet2Bruno_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xEFDDAE1C,
-				0xF7AD5634,
+				0x94793C19,
+				0x207C0FA8,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_Gauntlet2Bruno.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_Gauntlet2Bruno.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Gauntlet2Bruno(Z_Construct_UPackage__Script_Gauntlet2Bruno, TEXT("/Script/Gauntlet2Bruno"), Z_Registration_Info_UPackage__Script_Gauntlet2Bruno, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xEFDDAE1C, 0xF7AD5634));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Gauntlet2Bruno(Z_Construct_UPackage__Script_Gauntlet2Bruno, TEXT("/Script/Gauntlet2Bruno"), Z_Registration_Info_UPackage__Script_Gauntlet2Bruno, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x94793C19, 0x207C0FA8));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -18,7 +18,7 @@ public class Gauntlet2Bruno : ModuleRules
 			"StateTreeModule",
 			"GameplayStateTreeModule",
 			"UMG",
-			"Slate"
+			"Slate", "Niagara", "Niagara"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] { });

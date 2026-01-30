@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gauntlet2BrunoModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b03b24d7c4f66616529c4156c7c49b904910072")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63552e9cd67d6535fa709926cd6386708e32334f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gauntlet2BrunoModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gauntlet2BrunoModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
